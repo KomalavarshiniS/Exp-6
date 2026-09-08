@@ -31,25 +31,31 @@ To develop and model a simple Student Online Exam Registration System using Star
 6. Sequence Diagram
 # DIAGRAMS:
  ### Use Case Diagram
+<img width="997" height="903" alt="image" src="https://github.com/user-attachments/assets/f4f78bb4-76bd-4d29-9856-826358d1eb69" />
 
 
 ### Class Diagram
 
+<img width="1168" height="837" alt="image" src="https://github.com/user-attachments/assets/a6b95227-15bc-42e6-8a28-df1ce8ed0ab7" />
 
 
 ### Activity Diagram
+<img width="561" height="1062" alt="image" src="https://github.com/user-attachments/assets/1c2bc100-fb9b-4e1d-b6e7-0a2589ccec95" />
 
 
 
 ### Package Diagram
+<img width="1022" height="681" alt="image" src="https://github.com/user-attachments/assets/939d5d73-116a-4044-901a-8610f8c61017" />
 
 
 
 ### Communication Diagram
 
+<img width="1066" height="777" alt="image" src="https://github.com/user-attachments/assets/7a54e4f2-417f-46d4-b25f-0a95d482cf7e" />
 
 
 ### Sequence Diagram
+<img width="1018" height="796" alt="image" src="https://github.com/user-attachments/assets/32dd1851-19dc-486c-b267-c83ce52922fd" />
 
 
 # RESULT:
